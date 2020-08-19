@@ -819,7 +819,7 @@ input, select, textarea {
 				}
 
 		ul.actions.fit {
-			width: calc(100% + 1rem);
+			width: calc(100% + 0rem);
 		}
 
 			ul.actions.fit li {
