@@ -8,7 +8,7 @@
 */
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h5, h6, h7, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -225,6 +225,10 @@ input, select, textarea {
 	h6 {
 		font-size: 0.6rem;
 	}
+	h7 {
+		font-size: 1rem;
+		line-height: 1.0;
+	}
 
 	@media screen and (max-width: 736px) {
 
@@ -236,6 +240,10 @@ input, select, textarea {
 		h2 {
 			font-size: 1.25em;
 			line-height: 1.5;
+		}
+		h7 {
+			font-size: 0.75em;
+			line-height: 1.0;
 		}
 
 	}
