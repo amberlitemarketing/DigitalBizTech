@@ -819,7 +819,7 @@ input, select, textarea {
 				}
 
 		ul.actions.fit {
-			width: calc(100% + 0rem);
+			width: calc(100% + 1rem);
 		}
 
 			ul.actions.fit li {
@@ -1012,7 +1012,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: transparent;
-		border-radius: 4px;
+		border-radius: 100px;
 		border: 0;
 		box-shadow: inset 0 0 0 1px #ffffff;
 		color: #ffffff !important;
