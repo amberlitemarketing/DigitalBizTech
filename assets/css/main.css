@@ -632,6 +632,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
+			content: "Logo.png";
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
