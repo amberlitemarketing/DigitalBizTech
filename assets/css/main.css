@@ -1315,12 +1315,15 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 			background-image: url("Logo.jpg");
+			background-repeat: repeat;
 			background-color: #ffffff;
 			
 		}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
+				background-image: url("Logo.jpg");
+				background-repeat: repeat;
 			}
 
 		#header .content {
