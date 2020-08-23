@@ -1134,6 +1134,7 @@ input, select, textarea {
 		width: 100%;
 		height: 100vh;
 		z-index: 1;
+		overflow-x: hidden;
 	}
 
 		#bg:before, #bg:after {
