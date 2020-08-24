@@ -654,7 +654,7 @@ input, select, textarea {
 /* Image */
 	#Logoabc {
 		display: block;
-  		margin-left: auto;
+  		margin-left: -2rem;
   		margin-right: auto;
 	}
 
