@@ -1324,6 +1324,7 @@ input, select, textarea {
 
 			#header .logo .icon:before {
 				font-size: 2rem;
+				background-color: #ffffff;
 			}
 
 		#header .content {
