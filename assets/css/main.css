@@ -1470,6 +1470,10 @@ input, select, textarea {
 				height: 4.75rem;
 				line-height: 4.75rem;
 			}
+			
+			#header .logo img {
+				margin: 2rem 0 0 2rem;
+			}
 
 				#header .logo .icon:before {
 					font-size: 1.75rem;
