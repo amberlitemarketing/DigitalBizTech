@@ -1314,15 +1314,14 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background-image: url("Logo.jpg");
+			background-image: url("pic01.jpg");
 			background-repeat: repeat;
-			background-color: #ffffff;
 			
 		}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
-				background-image: url("Logo.jpg");
+				background-image: url("pic01.jpg");
 				background-repeat: repeat;
 			}
 
