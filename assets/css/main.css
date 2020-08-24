@@ -652,12 +652,6 @@ input, select, textarea {
 		}
 
 /* Image */
-	#Logoabc {
-		display: block;
-  		margin-left: -2rem;
-  		margin-right: auto;
-	}
-
 	.image {
 		border-radius: 4px;
 		border: 0;
@@ -1321,6 +1315,10 @@ input, select, textarea {
 			background-color: #ffffff;
 			
 		}
+		
+		#header .logo img {
+			margin: -2.4rem 0 0 -2.4rem;
+		}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
@@ -1472,7 +1470,7 @@ input, select, textarea {
 			}
 			
 			#header .logo img {
-				margin: 2rem 0 0 2rem;
+				margin: -2.1rem 0 0 -2.1rem;
 			}
 
 				#header .logo .icon:before {
