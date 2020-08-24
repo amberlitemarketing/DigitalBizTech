@@ -633,7 +633,6 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			background : url("Logo.jpg");
 		}
 
 		.icon > .label {
@@ -1319,15 +1318,11 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background-image: url("images/pic01.jpg");
-			background-repeat: repeat;
 			
 		}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
-				background-image: url("images/pic01.jpg");
-				background-repeat: repeat;
 			}
 
 		#header .content {
